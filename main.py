@@ -1,6 +1,6 @@
 import sys
-from menyu import print_main
-from books import show_books, show_read_status, search_books
+from kutubxona.menyu import print_main
+from kutubxona.books import show_books, show_read_status, search_books
 
 def main() -> None:
     while True:
